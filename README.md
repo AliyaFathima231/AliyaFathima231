@@ -21,14 +21,9 @@
 
 ---
 
-## 📌 Projects
-### 🌐 Portfolio Website
-Personal portfolio created using React.js
+## 📌 Project
 
-### 📚 Student Management System
-A simple CRUD application for managing student details
-
----
+ECOALERT[WASTE MANAGEMENT SYSTEM]
 
 ## 🌍 Connect With Me
 - GitHub: https://github.com/AliyaFathima231
