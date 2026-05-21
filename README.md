@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there 👋 I'm Aliya Fathima
 
-<!--
-**AliyaFathima231/AliyaFathima231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
+- 🎓 Diploma Student
+- 🌱 Currently studying polytechnic
+- 💻 Interested in Web Development
+- 🤝 Looking to collaborate on Web Projects
+- 📫 Reach me at: aliyadheedar@gmail.com
+- ⚡ Fun fact: I love designing creative websites
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Java
+- Python
+- Git & GitHub
+
+---
+
+## 📌 Projects
+### 🌐 Portfolio Website
+Personal portfolio created using React.js
+
+### 📚 Student Management System
+A simple CRUD application for managing student details
+
+---
+
+## 🌍 Connect With Me
+- GitHub: https://github.com/AliyaFathima231
+- LinkedIn: Add your LinkedIn link here
+
+---
+
+⭐ Thanks for visiting my profile!
